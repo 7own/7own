@@ -1,6 +1,7 @@
 ## Welcome 👋
 **Who i am ?**
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=7own&layout=compact&show_icons=true&theme=dark" width="380">
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7own&layout=compact&show_icons=true&theme=dark" width=380 />
 <p><em>4+ years penetration testing<br>
   Scripting in my spare time, pwning ⚡ at work!<br>
