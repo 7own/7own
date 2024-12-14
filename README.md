@@ -1,13 +1,13 @@
 ## Welcome 👋
 **Who i am ?**
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=7own&layout=compact&show_icons=true&theme=dark" width="380">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7own&layout=compact&show_icons=true&theme=dark" width=380 />
 <p><em>4+ years penetration testing<br>
   Scripting in my spare time, pwning ⚡ at work!<br>
   <center>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZpbTRkMDAxcDJtc3dremViZzVyNGg0bWYxY3d2Zmh3dTYwcGZkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1wdw6wqIePpm/giphy.webp" width="200"> 
   </center>
 </em></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7own&layout=compact&show_icons=true&theme=dark" width=380 />
 
 [![GitHub 7own](https://img.shields.io/github/followers/7own?label=follow%20github&style=flat-square)](https://github.com/7own)
 <!-- Twitter, youtube, twitch, ...)-->
