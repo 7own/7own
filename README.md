@@ -1,5 +1,5 @@
-## Hi there 👋
-<h2>7own!</h2>
+## Welcome 👋
+<h2>Who i am ?</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=7own&show_icons=true&theme=dark" width="380">
 <p><em>4+ years penetration testing<br>
   Scripting in my spare time, pwning ⚡ at work!<br>
