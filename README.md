@@ -10,9 +10,8 @@
   </em></p>
 
 [![GitHub 7own](https://img.shields.io/github/followers/7own?label=follow%20github&style=flat-square)](https://github.com/7own)
-<!-- Twitter, youtube, twitch, ...)
+<!-- Twitter, youtube, twitch, ...)-->
 [![GitHub 7own](https://komarev.com/ghpvc/?username=7own&label=Profile%20views&color=red&style=flat)](https://github.com/7own)
-[https://komarev.com/ghpvc/?username=7own&label=Profile%20views&color=red&style=flat](https://komarev.com/ghpvc/?username=7own&label=Profile%20views&color=red&style=flat)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7own&label=Profile%20views&color=red&style=flat" alt="7own" /> </p>
 <br>
 </p>
